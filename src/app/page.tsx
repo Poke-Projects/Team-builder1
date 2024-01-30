@@ -10,7 +10,6 @@ export default function Home() {
       <GlobalStyle />
       <div>
         <h1>Oi</h1>
-        <CardTeam />
       </div>
     </MainStyled>
   );

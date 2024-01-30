@@ -1,7 +1,7 @@
 "use client";
 import { StyledNavBar } from "./style";
-import loginIcon from "../../../public/loginIcon.svg";
-import logo from "../../../public/logo.svg";
+import loginIcon from "../../../public/navbar/loginIcon.svg";
+import logo from "../../../public/navbar/logoTeam.svg";
 import Image from "next/image";
 
 export const NavBar = () => {
