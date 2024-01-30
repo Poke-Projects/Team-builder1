@@ -29,5 +29,4 @@ export const GlobalStyle = createGlobalStyle`
         --color-grey: #E2E2E2;
     }
 
-      
 `;

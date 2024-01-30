@@ -14,15 +14,18 @@ export const StyledNavBar = styled.header`
   border-top: none;
   width: 100vw;
 
+  color: #fff;
+
   .image-logo {
     position: absolute;
-    top: -100px;
+    top: -70px;
     left: 50%;
     transform: translateX(-50%);
     width: 150px;
   }
 
   div {
+    color: #fff;
     display: flex;
     align-items: center;
     gap: 4px;
@@ -32,11 +35,12 @@ export const StyledNavBar = styled.header`
       cursor: pointer;
     }
     button {
-      background-color: none;
+      color: #fff;
       border: none;
       font-size: 26px;
       background-color: #232949;
       cursor: pointer;
+      font-family: "__Lalezar_089e3c";
     }
   }
 `;
