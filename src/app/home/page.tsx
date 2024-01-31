@@ -52,16 +52,7 @@ export default function HomePage() {
           contentLabel="Example Modal"
         >
           <ModalMainContainer>
-            <h2>Hello</h2>
             <button onClick={closeModal}>close</button>
-            <div>I am a modal</div>
-            <form>
-              <input />
-              <button>tab navigation</button>
-              <button>stays</button>
-              <button>inside</button>
-              <button>the modal</button>
-            </form>
           </ModalMainContainer>
         </Modal>
         <div className="container1">
